@@ -14,4 +14,4 @@ The results are displayed in the table to the right.
 
 ## Summary
 One drawback of the webpage currently is that all the city, state, country, and shape fields have values that are all lowercase which can look a bit unprofessional.
-Two improvements that could be made is to restructure the "Filter Search" section to remove the bullets next to the search fields and to create borders between the different sections of the webpage.
+Two improvements that could be made are to restructure the "Filter Search" section to remove the bullets next to the search fields and to create borders between the different sections of the webpage.
